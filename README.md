@@ -19,5 +19,3 @@ During this project, I strengthened my understanding of:
 - Implementing error states and form validation feedback
 - Managing hover states and transitions
 - Using CSS custom properties for consistent theming
-
-Here's a snippet of the email validation code I'm particularly proud of:
