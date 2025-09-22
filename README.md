@@ -1,12 +1,23 @@
-# React + Vite
+## My process
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Built with
 
-Currently, two official plugins are available:
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- JavaScript for form validation
+- Font Awesome icons for social media links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### What I learned
 
-## Expanding the ESLint configuration
+During this project, I strengthened my understanding of:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Email validation using JavaScript regular expressions
+- Creating responsive layouts using Flexbox and CSS Grid
+- Implementing error states and form validation feedback
+- Managing hover states and transitions
+- Using CSS custom properties for consistent theming
+
+Here's a snippet of the email validation code I'm particularly proud of:
